@@ -1,1 +1,2 @@
 # Thesis
+A cylinder from the VIV (vortex-induced vibrations) system, which includes the VIVACE (Aquatic Green Energy from Vortex Vibrations) system, the goal of this thesis; This study aims to measure the effects on the bidirectional and periodic vortexes that should happen under normal circumstances, as well as the von-Karman vortex street that is formed in the trace area when exposed to the free water surface effect because it operates at a depth very close to the free water surface. In order to examine how energy is produced using generated vortex movements.
